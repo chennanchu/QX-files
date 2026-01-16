@@ -4,6 +4,7 @@
 github.com/用户名/仓库名/blob/分支名/文件路径
 ➡️
 raw.githubusercontent.com/用户名/仓库名/分支名/文件路径
+
 2️⃣具体变化：
 1. 去掉 /blob
 2. 域名从 github.com 改为 raw.githubusercontent.com
