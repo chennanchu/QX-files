@@ -1,6 +1,6 @@
 📝 转换方法总结：
-
 1️⃣原理：
+
 github.com/用户名/仓库名/blob/分支名/文件路径
 ➡️
 raw.githubusercontent.com/用户名/仓库名/分支名/文件路径
